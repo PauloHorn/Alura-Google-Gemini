@@ -1,2 +1,2 @@
-console.log("Olá, mundo!");
+console.log(dados);
 alert("Olá, mundo!");
